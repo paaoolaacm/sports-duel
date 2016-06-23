@@ -1,0 +1,17 @@
+body
+{
+	background-color: gray;
+	font-family: 'slabo27px' sans-serif;
+}
+h1
+{
+	color: red;
+}
+#firstID
+{
+	color: blue;
+}
+.par
+{
+	color: cyan
+}
